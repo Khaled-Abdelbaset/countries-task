@@ -109,7 +109,8 @@ countries-task/
 ### Mobile View
 
 ![Mobile View](https://github.com/user-attachments/assets/4f858760-ff70-479c-8da5-73c70d3f29f8)
-![Mobile View](https://github.com/user-attachments/assets/8d4fea32-f0b1-4f0e-b810-b9d81eb1b301)
+![Mobile View](https://github.com/user-attachments/assets/1d0a9454-e1f9-4e98-95a4-3a71d0cd752e)
+
 
 ### Dark Mode
 
