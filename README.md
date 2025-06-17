@@ -1,4 +1,4 @@
-# Countries Explorer
+# Rest Countries Explorer
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-v3.5-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
