@@ -35,7 +35,7 @@ A responsive web application that displays information about countries using the
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/countries-task.git](https://github.com/Khaled-Abdelbaset/countries-task.git
+git clone https://github.com/Khaled-Abdelbaset/countries-task.git
 cd countries-task
 
 # Install dependencies
