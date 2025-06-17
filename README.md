@@ -8,7 +8,7 @@
 
 A responsive web application that displays information about countries using the REST Countries API. Users can search for countries, filter by region, view detailed information about each country, and navigate between neighboring countries.
 
-![App Screenshot](./src/assets/screenshot.png)
+![App Screenshot](![image](https://github.com/user-attachments/assets/8c030171-4242-464f-ac02-acaa5fbb7a95)
 
 ## 🌟 Features
 
