@@ -86,7 +86,7 @@ export const useCountriesStore = defineStore('countriesStore', () => {
       }
 
       const allCountries = await response.json()
-      countries.value = allCountries.filter(country => country.name.common !== 'Israel')
+      countries.value = allCountries.filter((country: Country) => country.name.common !== 'Israel')
     } catch (e) {
       error.value = e instanceof Error ? e.message : 'An unknown error occurred'
       console.error('Error fetching countries:', e)
