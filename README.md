@@ -104,7 +104,7 @@ countries-task/
 ### Desktop View
 
 ![Desktop View](https://github.com/user-attachments/assets/5a422dbf-c20c-4f81-9e1a-45e9d7bee6e9)
-![Desktop View]([https://github.com/user-attachments/assets/5a422dbf-c20c-4f81-9e1a-45e9d7bee6e9](https://github.com/user-attachments/assets/8c030171-4242-464f-ac02-acaa5fbb7a95)
+![Desktop View](https://github.com/user-attachments/assets/8c030171-4242-464f-ac02-acaa5fbb7a95)
 
 ### Mobile View
 
