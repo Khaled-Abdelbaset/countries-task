@@ -7,9 +7,11 @@ const themeStore = useColorThemeStore()
 <template>
   <header class="bg-white dark:bg-blue-900 shadow-sm px-4 py-6">
     <div class="container flex justify-between items-center gap-4">
-      <h1 class="font-extrabold text-grey-950 dark:text-white text-lg md:text-xl">
-        Where in the world?
-      </h1>
+      <router-link to="/" class="hover:opacity-80 transition-opacity">
+        <h1 class="font-extrabold text-grey-950 dark:text-white text-lg md:text-xl">
+          Where in the world?
+        </h1>
+      </router-link>
       <nav>
         <button
           @click="themeStore.toggleTheme"
