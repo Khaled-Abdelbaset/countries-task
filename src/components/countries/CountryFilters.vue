@@ -32,7 +32,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="mb-10 flex flex-col md:flex-row gap-6 md:justify-between">
+  <div class="mb-8 flex flex-col md:flex-row gap-6 md:justify-between">
     <!-- Search Input To Search With Country Name -->
     <div class="relative w-full lg:w-1/3 md:w-1/2">
       <label for="country-search" class="sr-only">Search for a country</label>

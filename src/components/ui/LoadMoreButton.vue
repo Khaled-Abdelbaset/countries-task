@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center mt-10">
+  <div class="flex justify-center mt-8">
     <button
       @click="$emit('load-more')"
       :disabled="loading"

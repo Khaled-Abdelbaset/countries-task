@@ -14,7 +14,7 @@
     <PageLoader v-if="isLoading" />
 
     <!-- Error state -->
-    <div v-else-if="error" class="text-center py-10">
+    <div v-else-if="error" class="text-center py-8">
       <p class="text-red-500">{{ error }}</p>
     </div>
 
@@ -74,7 +74,7 @@
     </div>
 
     <!-- No country found -->
-    <div v-else class="text-center py-10">
+    <div v-else class="text-center py-8">
       <p>Country not found</p>
     </div>
   </main>
